@@ -3,4 +3,4 @@ En este experimento se estudiará la dinámica de dos tipos de péndulos. El pri
 
 El segundo experimento involucra un péndulo tipo Rott's, compuesto por una varilla central anclada en su punto medio, la cual puede rotar alrededor de dicho anclaje. En los extremos de esta varilla central se encuentran otras dos varillas, las cuales también tienen la capacidad de rotar gracias a los pivotes que las conectan a la varilla principal.
 
-En ambos sistemas, la precisión de las mediciones dependerá de la calidad del montaje y de la sensibilidad de los instrumentos utilizados.
+Para los dos casos que abordaremos, se tomaran los datos experimentales de cada uno de estos y se compararan con los resultados obtenidos en las simulaciones correspondientes. En ambos sistemas, la precisión de las mediciones dependerá de la calidad del montaje y de la sensibilidad de los instrumentos utilizados.
