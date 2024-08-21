@@ -1,7 +1,1 @@
-Péndulo doble simple
 
-Un péndulo doble consta de dos varillas rígidas conectadas en serie. La primera varilla está anclada a un punto fijo y la segunda cuelga libremente; está conectado con el primero a través de una articulación que permite la rotación en planos perpendiculares. La precisión depende de la rigidez de las varillas, la calidad del péndulo, de la baja fricción en las uniones y los instrumentos de medida. Por motivos económicos utilizamos varillas de madera. Este montaje muestra un comportamiento caótico; por lo tanto, es muy adecuado para experimentos en dinámica no lineal si se garantiza una baja fricción y estabilidad.
-
-Péndulo de roots:
-
-Un péndulo de Rolls es un sistema con una varilla en un extremo, una varilla en el otro y un pivote. Este pivote permite el aprendizaje de cambios naturales y estabilidad dinámica ajustando el centro de masas y momento de inercia. La precisión depende de la calidad del pivote, la consistencia de la varilla y la estanqueidad del producto. Está configurado con una varilla larga fija, un pivote ajustable y un tamaño fijo. Esto muestra cómo pequeños cambios en la distribución de tamaños afectan el comportamiento dinámico.
