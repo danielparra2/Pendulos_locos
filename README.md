@@ -1,5 +1,5 @@
                             BIENVENIDO
-    R:4 G:4 Osilaciones en botellas de D1 medio vacias y medio llenas.
+    R:4 G:x Variedad de pendulos.
                  /\ ___ /\        
                 (  o   o  )      -Daniel Parra^2.       
                  \  >#<  /       -Daniel Espinel Rodriguez.
