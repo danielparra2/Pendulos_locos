@@ -1,5 +1,5 @@
                             BIENVENIDO
-    R:4 G:x Variedad de pendulos.
+    R:x G:4 Variedad de pendulos.
                  /\ ___ /\        
                 (  o   o  )      -Daniel Parra^2.       
                  \  >#<  /       -Daniel Espinel Rodriguez.
